@@ -1,0 +1,250 @@
+*{
+   padding:0px;
+   margin:0px;
+}
+.navbar-brand{
+   font-family: 'Zen Antique Soft', serif;
+   font-size: 40px;
+}
+a,.blog {
+   font-family: 'Zen Antique Soft', serif;
+   font-size: 30px;
+   font-weight: bold;
+}
+.line{
+   width:100%;
+   margin-bottom: 1px solid black;
+}
+.short-line{
+   width:55px;
+   height:2px;
+   background-color:black;
+   margin-left:67.15%
+}
+
+.figma{
+   font-family: 'Roboto Mono', monospace;
+}
+.img-fluid{
+   width:100%;
+   height:900px;
+}
+.row-line{
+   width:490px;
+   border:1px solid gray;
+   margin:auto;
+   margin-top: 10px;
+}
+.main{
+   position: relative;
+   width:500px;
+   height:100px;
+   margin: auto;
+}
+
+.mask-img{
+   position:absolute;
+   width:56px;
+   height:56px;
+   margin-top:10px;
+
+}
+span{
+   margin-left:70px;
+   font-weight: bold;
+   font-size: 12px;
+}
+date{
+   margin-left:70px;
+   font-size:12px;
+   position: absolute;
+}
+.fa-facebook{
+  border:1px solid lightgrey;
+  width:40px;
+  height:30px;
+  text-align: center;
+ padding-top: 5px;
+ margin-left:420px;
+
+}
+.fa-twitter{
+   position: absolute;
+  border:1px solid lightgrey;
+   width:40px;
+   height:30px;
+   text-align: center;
+   padding-top: 5px;
+}
+.me , .pipeline{
+   margin-left: 10px;
+   
+}
+
+.d-block{
+   width: 854px;
+height: 570px;
+}
+
+.mx{
+   margin-left: 27px;
+}
+#icone{
+   width:250px;
+   
+}
+@media screen and (max-width: 1000px) {
+   #icone {
+     width:200px;
+   }
+   .short-line{
+      width:0px;
+      height:0px;
+    
+   }
+   .digital>.remove{
+      visibility: hidden;
+      }
+      
+ }
+ @media screen and (max-width: 770px) {
+   .row-line{
+      width:300px;
+   }
+   .fa-facebook,.fa-twitter{
+      margin:auto;
+      margin-top:60px;
+      width:180px;
+   }
+   .footer{
+      position: absolute;
+      
+   }
+   .dig{
+     margin-left:10px;
+   }
+   .prod{
+      margin-left:100px;
+   }
+   .design{
+      margin-left:200px;
+   }
+   .remote{
+      margin-left:300px;
+   }
+   .work{
+      margin-left:400px;
+   }
+   
+   }
+ .main3{
+   width:580px;
+   height:100px;
+   margin:auto;
+}
+
+.mask-img{
+   position:absolute;
+   width:70px;
+   height:70px;
+   
+
+}
+b{
+   margin-left: 5px;
+   font-weight: bold;
+   font-size: 15px;
+}
+.paragraph1{
+   margin-left:75px;
+   
+}
+@media screen and (max-width: 500px){
+   .main{
+       width:360px;
+       height:100px;
+   }
+   .img1{
+     width:100%;
+   }
+   .mxe{
+      margin-right:40px;
+   }
+  }
+  .eye-line{
+     
+     height:40px;
+     margin-top:100px;
+     border-bottom: 1px solid black;
+  }
+.eye-img{
+     width:82px;
+     height:64px;
+     margin:auto;
+  }
+.read{
+   margin-top:40px;
+}
+.mxe{
+   margin-left:50px;
+   font-weight: bold;
+   font-size: 14px;
+}
+.signup{
+   width:450px;
+   height:200px;
+   margin-left:auto;
+   margin-right: auto;
+   margin-top:20px;
+   border-top: 4px solid black;
+   border-left:1px solid gray;
+   border-right:1px solid gray;
+   border-bottom:1px solid gray;
+}
+.newsletter{
+   margin-top:40px;
+}
+.border{
+   border: 1px solid black;
+   margin-left:20px;
+}
+input{
+   margin-left:20px;
+   width:300px;
+   border:0px;
+   border-color: white;
+}
+.button{
+   background-color: black;
+   color:white;
+  margin-left:20px;
+  width:62px;
+  height:25px;
+  border-radius:2px;
+  position: absolute;
+}
+.top{
+   margin-top:100px;
+}
+.div {
+   text-align: center;
+   max-height: 50px;
+ }
+.links {
+   display: inline-block;
+   height: 50px;
+   color: white;
+   font-size: 15px;
+   margin-left:10px;
+ }
+ .product{
+    background-color:black;
+    width:100%;
+    height:100%;
+ }
+ .digital{
+    width:100%;
+    height:20px;
+   
+ }
+ 
